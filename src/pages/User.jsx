@@ -74,7 +74,7 @@ function User() {
                   href={html_url}
                   target='_blank'
                   rel='noreferrer'
-                  class='btn btn-outline'
+                  className='btn btn-outline'
                 >
                   Viist Github Profile
                 </a>
